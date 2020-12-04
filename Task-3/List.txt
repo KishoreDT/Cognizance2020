@@ -1,0 +1,12 @@
+Shoping List
+
+1.Apples
+2.Oranges
+3.Bananas
+4.Walnuts
+5.Mangos
+6.Cherries
+7.Watermellons
+8.Papayas
+9.Tomatos
+10.Lemons
