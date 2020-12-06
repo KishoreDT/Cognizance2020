@@ -20,10 +20,9 @@ Ronaldo was one of the most well-known sports stars off the field, and numerous 
 
 ## Records
 <!--UL-->
-* In 2003-2004. awarded with Sir Matt Busby of the Year.
-* In 2007-2008, awarded with [FIFA](https://www.fifa.com/) Ballon d'Or.
-* In 2008, become World Soccer Player of the Year.
-* In 2010-2011, awarded with European Golden Shoe
-* In 2012-2013, Cristiano Ronaldo become Liga de Futbol Profrssional Most Valuable Player.
-* In 2013-2014, he was awarded with [La Liga](https://www.laliga.com/en-GB) Best Individual Goal, La Liga Best Forward, [UEFA](https://www.uefa.com/) Best Player, Golden Shoe and La Liga Top Scorer.
-* Cristiano Ronaldo becomes first Portuguese to score a Serie A hat-trick
+* He has scored 750 Goals.*
+* He has scored 56 hat-tricks.*
+* He has given 198 assists.*
+* He played 836 games.*
+
+('*'-Still continuing)
