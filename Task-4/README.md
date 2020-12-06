@@ -1,5 +1,7 @@
 <!--Headings-->
 # Cristiano Ronaldo
+<!--Images-->
+![]()
 <!--Strong-->
 <!--Links-->
 **Cristiano Ronaldo**, in full **Cristiano Ronaldo dos Santos Aveiro**, (born February 5, 1985, [Funchal](https://wikitravel.org/en/Funchal), [Real Madrid](https://www.instagram.com/realmadrid/), [Portugal](https://www.instagram.com/portugal/?hl=en), [Juventus](https://www.instagram.com/juventus/?hl=en)), Portuguese football (soccer) forward who was one of the greatest players of his generation.
@@ -15,3 +17,13 @@ Soon thereafter Ronaldo was sold to Spain’s Real Madrid—a club with which he
 On his home soil, after moving through the youth and under-21 ranks, Ronaldo had made his first appearance for Portugal’s full national team against Kazakhstan in August 2003 (four days after his debut for United). He was a key player in Portugal’s fourth-place finish at the 2006 World Cup and became the full-time captain of the national team in 2008. In 2012 his stellar play led Portugal to the semifinals of the European Championship, where his team was eliminated by rival Spain in a match that was decided by a penalty kick shoot-out. Ronaldo came into the 2014 World Cup hot off of his second world player of the year win, but his play at the tournament was spotty, and the entire Portugal team struggled during a group-stage elimination. In 2016 he helped Portugal win the European Championship, the country’s first major international tournament title, although he only played sparingly in the final because of a knee injury that he had sustained early in the match. Ronaldo played brilliantly at the 2018 World Cup, scoring four goals in four games as Portugal advanced to the knockout round only to lose its first match of that stage to a strong defensive Uruguay side.
 
 Ronaldo was one of the most well-known sports stars off the field, and numerous studies of athletes’ popularity showed that he was the most-beloved athlete in the world during his playing peak. His extreme popularity made Ronaldo one of the highest-paid endorsers in sports history, and in November 2016 he became the third person (after basketball superstars Michael Jordan and LeBron James) to earn a “lifetime” contract from the sportswear company Nike. Moreover, he established his own successful “CR7” brand of products that included shoes, underwear, and fragrances. Ronaldo’s immense marketability was at the centre of a legal issue that arose in June 2017. That month prosecutors filed a lawsuit that accused Ronaldo of defrauding the Spanish government of €14.7 million ($16.5 million) by hiding his image-rights income in Spain from 2011 to 2014. He was accused of having underestimated the income he earned from the sale and licensing of his image rights and the accompanying tax obligations, but Ronaldo denied all allegations. However, in June 2018 he accepted a suspended two-year prison sentence and agreed to pay €18.8 million ($21.8 million) to the Spanish government to settle the case.
+
+## Records
+<!--UL-->
+* In 2003-2004. awarded with Sir Matt Busby of the Year.
+* In 2007-2008, awarded with [FIFA](https://www.fifa.com/) Ballon d'Or.
+* In 2008, become World Soccer Player of the Year.
+* In 2010-2011, awarded with European Golden Shoe
+* In 2012-2013, Cristiano Ronaldo become Liga de Futbol Profrssional Most Valuable Player.
+* In 2013-2014, he was awarded with [La Liga](https://www.laliga.com/en-GB) Best Individual Goal, La Liga Best Forward, [UEFA](https://www.uefa.com/) Best Player, Golden Shoe and La Liga Top Scorer.
+* Cristiano Ronaldo becomes first Portuguese to score a Serie A hat-trick
