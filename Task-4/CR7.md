@@ -109,4 +109,4 @@ Ronaldo was one of the most well-known sports stars off the field, and numerous 
 |77 |UEFA.com Goal of the Season                                                               |2020|
 |78 |Golden Foot                                                                               |2020|
 
-![(https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/5ac44d613a9ff152a200000d.jpg)](https://www.youtube.com/watch?v=OUKGsb8CpF8)
+![(https://www.youtube.com/watch?v=OUKGsb8CpF8)](https://d3nfwcxd527z59.cloudfront.net/content/uploads/2018/04/05113416/Cristiano-Ronaldo-Juventus-Real-Madrid-Champions-League-2018.jpg)
