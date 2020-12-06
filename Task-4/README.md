@@ -1,7 +1,7 @@
 <!--Headings-->
 # Cristiano Ronaldo
 <!--Images-->
-![]()
+![](https://e0.365dm.com/20/08/2048x1152/skysports-ronaldo-juve_5061431.jpg)
 <!--Strong-->
 <!--Links-->
 **Cristiano Ronaldo**, in full **Cristiano Ronaldo dos Santos Aveiro**, (born February 5, 1985, [Funchal](https://wikitravel.org/en/Funchal), [Real Madrid](https://www.instagram.com/realmadrid/), [Portugal](https://www.instagram.com/portugal/?hl=en), [Juventus](https://www.instagram.com/juventus/?hl=en)), Portuguese football (soccer) forward who was one of the greatest players of his generation.
