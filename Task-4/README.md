@@ -26,3 +26,85 @@ Ronaldo was one of the most well-known sports stars off the field, and numerous 
 * He played 836 games.*
 
 ('*'-Still continuing)
+## Awards
+<!--Tables-->
+| # |Awards                                                                                    |Year|
+|---|------------------------------------------------------------------------------------------|----|
+| 1 |Bravo Award by Guerin Sportivo                                                            |2004|
+| 2 |Premier League Player of the Season                                                       |2007|
+| 3 |Silver Ball                                                                               |2007|
+| 4 |CNID - Best Portuguese Athlete Abroad                                                     |2007|
+| 5 |Ballon d'Or / Golden Ball                                                                 |2008|
+| 6 |European Golden Shoe / Golden Boot                                                        |2008|
+| 7 |	FIFA POTY (FIFA World Player / FIFA Ballon d'Or / FIFA The Best)                         |2008|
+| 8 |UEFA Club Footballer of the Year                                                          |2008|
+| 9 |Premier League Golden Boot                                                                |2008|
+|10 |Champions League Golden Boot                                                              |2008|
+|11 |Onze d'Or by Onze Mondial                                                                 |2008|
+|12 |Premier League Player of the Season                                                       |2008|
+|13 |CNID - Best Portuguese Athlete Abroad                                                     |2008|
+|14 |	World Soccer Best Player                                                                 |2008|
+|15 |FIFPro World Player of the Year                                                           |2008|
+|16 |UEFA Best Forward in Europe Award                                                         |2008|
+|17 |Silver Ball                                                                               |2009|
+|18 |CNID - Best Portuguese Athlete Abroad                                                     |2009|
+|19 |FIFA Puskás Award                                                                         |2009|
+|20 |European Golden Shoe / Golden Boot                                                        |2011|
+|21 |Spanish League Top Scorer                                                                 |2011|
+|22 |CNID - Best Portuguese Athlete Abroad                                                     |2011|
+|23 | Silver Ball                                                                              |2011|
+|24 |CNID - Best Portuguese Athlete Abroad                                                     |2012|
+|25 |Silver Ball                                                                               |2012|
+|26 |Trofeo Alfredo Di Stefano                                                                 |2012|
+|27 |Ballon d'Or / Golden Ball                                                                 |2013|
+|28 |FIFA POTY (FIFA World Player / FIFA Ballon d'Or / FIFA The Best)                          |2013|
+|29 |Champions League Golden Boot                                                              |2013|
+|30 |CNID - Best Portuguese Athlete Abroad                                                     |2013|
+|31 |	World Soccer Best Player                                                                 |2013|
+|32 |	Trofeo Alfredo Di Stefano                                                                |2013|
+|33 |IFFHS World's Best Top Goal Scorer                                                        |2013|
+|34 |Ballon d'Or / Golden Ball                                                                 |2014|
+|35 |European Golden Shoe / Golden Boot                                                        |2014|
+|36 |FIFA POTY (FIFA World Player / FIFA Ballon d'Or / FIFA The Best)                          |2014|
+|37 |UEFA Best Player in Europe Award                                                          |2014|
+|38 |Spanish League Top Scorer                                                                 |2014|
+|39 |Champions League Golden Boot                                                              |2014|
+|40 |La Liga Player of the Season                                                              |2014|
+|41 |Trofeo Alfredo Di Stefano                                                                 |2014|
+|42 |IFFHS World's Best Top Goal Scorer                                                        |2014|
+|43 |World Soccer Best Player                                                                  |2014|
+|44 |IFFHS World's Best Top Division Goal Scorer                                               |2014|
+|45 |European Golden Shoe / Golden Boot                                                        |2015|
+|46 |	Spanish League Top Scorer                                                                |2015|
+|47 |Champions League Golden Boot                                                              |2015|
+|48 |Silver Ball                                                                               |2015|
+|49 |CNID - Best Portuguese Athlete Abroad                                                     |2015|
+|50 |IFFHS World's Best Top Division Goal Scorer                                               |2015| 
+|51 |Ballon d'Or / Golden Ball                                                                 |2016|
+|52 |FIFA POTY (FIFA World Player / FIFA Ballon d'Or / FIFA The Best)                          |2016|
+|53 |UEFA Best Player in Europe Award                                                          |2016|
+|54 |Champions League Golden Boot                                                              |2016|
+|55 |CNID - Best Portuguese Athlete Abroad                                                     |2016|
+|56 |Trofeo Alfredo Di Stefano                                                                 |2016|
+|57 |IFFHS World's Best Top Goal Scorer                                                        |2016|
+|58 |World Soccer Best Player                                                                  |2016|
+|59 |Ballon d'Or / Golden Ball                                                                 |2017|
+|60 |FIFA POTY (FIFA World Player / FIFA Ballon d'Or / FIFA The Best)                          |2017|
+|61 |UEFA Best Player in Europe Award                                                          |2017|
+|62 |Champions League Golden Boot                                                              |2017|
+|63 |Onze d'Or by Onze Mondial                                                                 |2017|
+|64 |CNID - Best Portuguese Athlete Abroad                                                     |2017|
+|65 |	IFFHS World's Best Top Goal Scorer                                                       |2017|
+|66 |World Soccer Best Player                                                                  |2017|
+|67 |UEFA Best Forward in Europe Award                                                         |2017|
+|68 |Champions League Golden Boot                                                              |2018|
+|69 |CNID - Best Portuguese Athlete Abroad                                                     |2018|
+|70 |Silver Ball                                                                               |2018|
+|71 |UEFA Best Forward in Europe Award                                                         |2018|
+|72 |UEFA.com Goal of the Season                                                               |2018|
+|73 |Serie A Player Of The Season                                                              |2019|
+|74 |Bronze Ball                                                                               |2019|
+|75 |IFFHS World's Best Top Goal Scorer                                                        |2019|
+|76 |UEFA Nations League Finals Top Scorer                                                     |2019|
+|77 |UEFA.com Goal of the Season                                                               |2020|
+|78 |Golden Foot                                                                               |2020|
